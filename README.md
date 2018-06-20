@@ -7,7 +7,7 @@ Step1
 
 Step2  
 //Install mongoDB and run it
-https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/  
 ```sudo service mongod start```
 
 Step3  
