@@ -51,10 +51,10 @@ Step5
 ```npm i hawk --save```  
 ```npm i --save```  
 
-Step5
-//change the code to connect the local p2p node  
+Step5  
+//start at line 66,modify RPC part to connect the local p2p node   
 ```cd ~/bitcore-node/src```  
-```vi config.ts```
+```vi config.ts```  
 ```
 import * as os from "os";
 import parseArgv from "./utils/parseArgv";
